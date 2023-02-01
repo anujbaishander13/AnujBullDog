@@ -1,0 +1,179 @@
+#title{
+    background-color: #ff4c68;
+}
+@media (max-width: 576px){
+    body{
+       
+    }
+}
+.row h1{
+    font-family: 'Montserrat', sans-serif;
+
+    color: white;
+    font-size: 10rem;
+    line-height: 1.5;
+    width: 50%;
+    font-size: 50px;
+
+}
+@media (max-width: 576px){
+    .row h1{
+        text-align: left;
+        font-size: 30px;
+    }
+  
+    .row img{
+        width: 150px;
+    }
+    .row .btn{
+        margin: 2px;
+        padding: 5px;
+        text-align: center;
+   
+    }
+    .row .col22{
+     width: 50%;
+        align-items: left;
+        
+        
+    }
+
+
+}
+.nav-item {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+  
+    padding: 3px;
+
+
+}
+.navbar{
+    margin-bottom: 20px;
+   margin-right: 100px;
+   margin-left: 85px;
+}
+
+.row{
+    padding: 10px;
+    margin-left: 10px;
+    line-height: 10rem;
+    
+    
+}
+
+.row img{
+    transform: rotate(30deg);
+}
+@media (max-width: 576px){
+    .row img{
+        position: static;
+        transform: rotate(0);
+    }
+}
+.row{
+    padding-left: 100px;
+}
+.img1 i:hover{
+    color: #ff4c68
+   
+}
+.facility .row{
+
+text-align: center;
+}
+
+.col2{
+   
+    text-align: center;
+}
+.col2 i{
+    width: 100px;
+    color: rgb(252, 79, 79);
+    margin-bottom: -10px;
+    align-content: center;
+    align-items: center;
+}
+.img1 i{ color: rgb(252, 79, 79);
+   
+    
+}
+.img1{
+  
+    padding: 0px;
+    margin-bottom: -60px;
+}
+.carousel-inner img{
+    margin-bottom: 100px;
+}
+.testimonial{
+    background-color: rgb(252, 79, 79);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+    color: white;
+    font-size: 10rem;
+    line-height: 1.5;
+}
+.testimonial h2{
+    padding: 30px;
+    margin:auto;
+    width: 60%;
+
+}
+.dog-img{ width: 280px;
+   border-radius: 100%;}
+    .companay{
+        background-color: rgb(252, 79, 79);
+        text-align: center;
+        
+    }
+    .companay img{
+        width: 200px;
+        margin: 40px;
+
+    }
+    .facility{
+        margin: 50px;
+    }
+    .price{
+        text-align: center;
+       
+        margin: 50px;
+    }
+   .last{
+       background-color: #ff4c68;
+ 
+       padding: 50px;
+       align-items: center;
+      
+      
+   }
+   .last h1{ font-family: 'Montserrat', sans-serif;
+
+    color: white;
+    font-size: 10rem;
+    line-height: 1.4;
+    
+    font-size: 50px;
+ 
+    
+    text-align: center;
+
+   }
+  .last .last1{
+     
+       width: 60%;
+       text-align: center;
+       
+       margin: auto;
+      
+   }
+   .last1 .btn{
+       margin: 10px;
+       margin-top: 20px;
+   }
+   .footer{
+       text-align: center;
+       margin: 20px;
+   }
